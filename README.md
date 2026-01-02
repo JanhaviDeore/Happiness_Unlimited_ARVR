@@ -65,9 +65,10 @@ Designed with **mental well-being** at its core, *Happiness Unlimited* is a step
 Special thanks to my amazing teammates for their passion and creativity:
 
 - **Janhavi Deore**
+- **Mital Patil**
 - **Gourav Chouhan**
 - **Sanket Patil**
-- **Mital Patil** *(Project Lead)*
+
 
 ---
 
